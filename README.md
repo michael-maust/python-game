@@ -4,14 +4,28 @@ A classic Space Invaders game built with Python and Pygame.
 
 ## Features
 
-- Player-controlled spaceship at the bottom of the screen
-- Multiple rows of enemy aliens that move horizontally and downward
-- Shooting mechanics for both player and enemies
-- Collision detection
-- Score system
-- Lives system (3 lives)
-- Game over and win conditions
-- Restart functionality
+- **Enhanced Graphics:**
+  - Detailed player spaceship with animated engine glow
+  - Intricate enemy alien designs with animated glowing eyes
+  - Particle explosion effects
+  - Animated star field background
+  - Enhanced bullet graphics with trail effects
+  - Improved UI with life indicators
+
+- **Audio Effects:**
+  - Shooting sound effects
+  - Explosion sound effects
+  - Background music (toggle with M key)
+
+- **Gameplay:**
+  - Player-controlled spaceship at the bottom of the screen
+  - Multiple rows of enemy aliens that move horizontally and downward
+  - Shooting mechanics for both player and enemies
+  - Collision detection
+  - Score system
+  - Lives system (3 lives)
+  - Game over and win conditions
+  - Restart functionality
 
 ## Installation
 
@@ -44,6 +58,7 @@ python space_invaders.py
    - **Right Arrow**: Move player right
    - **Space**: Shoot bullets
    - **R**: Restart game (when game over)
+   - **M**: Toggle background music
 
 ## Game Rules
 
